@@ -1,0 +1,10 @@
+alert_id,component_id,state,severity,note
+AL-100,AP-01,OPEN,HIGH,rotate edge certificate
+AL-101,DB-02,ACK,CRITICAL,verify replica lag
+AL-102,AP-01,RESOLVED,HIGH,retired certificate notice
+AL-103,MQ-03,OPEN,LOW,inspect consumer backlog
+AL-104,UI-04,OPEN,LOW,correct profile label
+BROKEN,DB-02,OPEN,CRITICAL,missing alert code
+AL-105,ZZ-99,OPEN,HIGH,unknown component
+AL-106,DB-02,OPEN,CRITICAL,review backup drill
+AL-106,DB-02,ACK,CRITICAL,duplicate alert code
