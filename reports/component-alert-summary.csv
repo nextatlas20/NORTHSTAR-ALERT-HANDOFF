@@ -1,0 +1,5 @@
+component_id,service_name,criticality,valid_alerts,open_alerts,ack_alerts,resolved_alerts,active_alerts,status
+DB-02,Ledger Store,CRITICAL,1,0,1,0,1,ESCALATE
+AP-01,Edge API,HIGH,2,1,0,1,1,WATCH
+MQ-03,Event Bus,MEDIUM,1,1,0,0,1,WATCH
+UI-04,Member Portal,LOW,1,1,0,0,1,WATCH
